@@ -1,0 +1,14 @@
+h1{
+  color: #c72;
+  text-decoration: underline;
+  
+  }
+  body{
+  background-image: url("DSC_0789.jpg");
+  background-size: cover;
+  }
+  body,h1 {
+  color: #c72;
+  font-family: "Montserrat", sans-serif}
+  img {margin-bottom: -7px}
+  .w3-row-padding img {margin-bottom: 12px}
